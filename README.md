@@ -1,2 +1,4 @@
 # soundtouch-example-android
-Example of Soundcloud for Android studio
+Example of soundtouch for Android studio
+
+Editing pitch and tempo of WAV files in android.
