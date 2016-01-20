@@ -1,0 +1,13 @@
+/gradle
+/app/src/main/obj
+/app/app.iml
+/soundtouch.iml
+/local.properties
+/app/src/main/libs
+/.gradle
+/app/build
+/gradlew.bat
+/.idea
+/gradlew
+build/
+.DS_Store
